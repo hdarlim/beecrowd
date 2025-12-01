@@ -1,4 +1,4 @@
-
+# https://judge.beecrowd.com/pt/problems/view/1073
 
 N = int(input())
 
