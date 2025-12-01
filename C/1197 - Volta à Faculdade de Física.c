@@ -3,7 +3,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int v = 0;
     int t = 0;
     int s = 0;

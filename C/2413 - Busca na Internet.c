@@ -3,7 +3,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int t = 0;
     int resultado = 0;
     

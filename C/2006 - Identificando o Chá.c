@@ -3,7 +3,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int cha_real = 0;
     int respostas[5];
     int corretas = 0;

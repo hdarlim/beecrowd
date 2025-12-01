@@ -3,7 +3,6 @@
 #include <stdio.h>
  
 int main() {
- 
     int A = 0;
     int B = 0;
     int M = 0;
